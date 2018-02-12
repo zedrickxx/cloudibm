@@ -1,0 +1,6 @@
+applications:
+- name: primera_app
+  host: appZedrickDaniel
+  random-route: false
+  memory: 256M
+  command: node app.js
